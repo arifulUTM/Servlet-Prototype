@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : Jan 22, 2021, 8:53:51 PM
-    Author     : marif
+    Author     : Md Ariful Islam
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -30,7 +30,8 @@
     <center> <h1> Faculty Staff Login Here </h1> </center>
     <center>
     <div>
-        <form action="" method="POST">
+        <form action="SRADStaffLogin" method="POST">
+           
             
         
         <table>
